@@ -589,26 +589,6 @@ file = "config/patchouli.json5"
 hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
-file = "config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
-file = "config/paxi/datapacks/AdventureZ_NetheriteFix_1.0+1.20.1.zip"
-hash = "bc1600f0ec31ea983ac283acc32a20c877f9c29e992d07548c93534d52f7da2f"
-
-[[files]]
-file = "config/paxi/datapacks/FarmersDelight_ToolFix_1.1+1.20.x.zip"
-hash = "13daa8b8aac5d04daab8a412016c3a94ed6921d66dc322c9d36c854767cba6df"
-
-[[files]]
-file = "config/paxi/datapacks/Trinkets_OffhandFix_1.2+1.20.1.zip"
-hash = "0335a87fe54791891bd1d94209082b04ba8e1eb1bdf02a515db0178afe6b8594"
-
-[[files]]
-file = "config/paxi/datapacks/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip"
-hash = "3bbcaca8a773be45a2f3f7e04c344d418f797641311d8b9f312bce829858edcb"
-
-[[files]]
 file = "config/plantinajar.json"
 hash = "3625fb3f52c5e53cc85a2e8874d182a391a91c43a49915ccee6ba30af6e92a24"
 
