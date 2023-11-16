@@ -1,0 +1,13 @@
+name = "More Slabs, Stairs, and Walls"
+filename = "moreslabsstairsandwalls-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c283a07cc6d6750391dfb8310378affd19c21d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4849589
+project-id = 644005

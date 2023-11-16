@@ -1,0 +1,13 @@
+name = "Applied Energistics 2 Wireless Terminals"
+filename = "ae2wtlib-15.1.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ceecaf440950998f632ebf621a651c5ef8e81608"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4818793
+project-id = 459929

@@ -1,0 +1,13 @@
+name = "Torcherino"
+filename = "Torcherino-fabric-1.20.1-20.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d4399f6867383cb577cfb862dbb441db5846297"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4722723
+project-id = 236794

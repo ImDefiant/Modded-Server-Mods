@@ -1,0 +1,13 @@
+name = "TheObsidianBoat"
+filename = "ObsidianBoat-Fabric-3.0.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f84f8eca4e409fcd921f104470c0dedacffd3fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4668019
+project-id = 510648
