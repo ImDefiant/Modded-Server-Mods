@@ -1,2 +1,2 @@
 # ModdedServerTest
-Test for packwiz on a completely modded server
+Server Mods for a completely modded server with Packwiz
