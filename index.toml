@@ -951,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+hash = "db9d065baf9ebb8a326bc2daf96e75371fff22d5007785638f8e97b69a9b42f9"
 metafile = true
 
 [[files]]
