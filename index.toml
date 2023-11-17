@@ -394,7 +394,7 @@ hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
 
 [[files]]
 file = "config/diggusmaximus/config.json5"
-hash = "4b72fed28a24f6d3f7b4ed0dc5f87c4449f6eade69bf365bb77ad44209d97a6e"
+hash = "c708a8aae27c4b8e2ee9530c9c146314e7f4475eab6682aaf6e73d3d4cf574d0"
 
 [[files]]
 file = "config/diggusmaximus/excavatingshapes.json5"
@@ -418,7 +418,7 @@ hash = "2150eb47d56f949a7673dfb188a98ef397e5bad8fd77d72dc3377c8a08e77501"
 
 [[files]]
 file = "config/enchant-tweaker.properties"
-hash = "8d6e1eb1c81aa72a5d14c636247535ac1f7bd4e343cddc4af8f25f93a3eea5a0"
+hash = "4c388d1b2ff08f66bc7267ff5ccb547b050946cbf3f09615762571f69b854a79"
 
 [[files]]
 file = "config/endportalrecipe.json5"
