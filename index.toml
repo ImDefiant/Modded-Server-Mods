@@ -915,6 +915,11 @@ hash = "41dcf82299640abe76be260a9bcf961e00d1fb535882778764243399fce69479"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "84f316671a16609ace1010b10f630ff04f12d3dac46fe48a0ce5d27f313260a6"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "3354f86b30b34a5bcb084e598605647c44df00a7dec4abaa3b8ea74086c32d21"
 metafile = true
@@ -1070,6 +1075,11 @@ hash = "21129c99e43e347dccafc77af2bfb42708a5994cad7427a9d5105869979c1ae0"
 metafile = true
 
 [[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "35561c50fd128cff62577503b1c444753a255a4da0c297877efc71cce716b861"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 hash = "fa48c098ff9a6e47470bb3a77bc53158849fa3b413f8b5bdce35ee74ac3cbd1d"
 metafile = true
@@ -1186,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "551dfeadc5b1f1cd6cafa68455b3404b1f4bf253b37af5d0e2393fcc4866c4cc"
+hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
 metafile = true
 
 [[files]]
@@ -1510,6 +1520,11 @@ hash = "0ddbfb3c0a0dec61c63d1e4e76f42832838630035dc546da2e3ea65fc36f5a04"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "e97d2fee9004604b792592613a1559e0b0547dd4499695d39342075f56f139f3"
+metafile = true
+
+[[files]]
 file = "mods/plant-in-a-jar.pw.toml"
 hash = "814f27b80d6d2818a9fd83a1e2129e63d9246b28bde8e83707e0db88452e0c40"
 metafile = true
@@ -1567,6 +1582,11 @@ metafile = true
 [[files]]
 file = "mods/roost-ultimate.pw.toml"
 hash = "d4cb7436b172eb4376d00d3b26c583ed36a8df3d83dc4b647e7afe8794077447"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "03462e595bdf44957bbaf004c0b275a11d19128df3519b52880ce9179e0f3727"
 metafile = true
 
 [[files]]
