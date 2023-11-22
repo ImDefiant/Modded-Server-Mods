@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "63d85507369c920697ce2723807e3aafb6cc692d3f761feb9326f88f94465c1c"
+hash = "c4fced9cf7eea2900c445e5cf9d76ee3f0494ee25c1fa61ffc8386cdf3588847"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/bank-storage.pw.toml"
-hash = "4770a549ef58caae2b13a7ca6deb09d28fcf9d2de2a50566557fa262d69133f0"
+hash = "0c284b961f38d235d2bb97502c16b59d5db01efd07a1cb08ea44c7318d46cc00"
 metafile = true
 
 [[files]]
@@ -891,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-trims.pw.toml"
-hash = "581fb38ac8ea4c0647a1c2270cd255a28dd77f664df0d518e9398373fede967a"
+hash = "59cde08ee2021ff9a67e074a445f1edd7de0660aede1ead4532921fb0071d42c"
 metafile = true
 
 [[files]]
@@ -911,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "41dcf82299640abe76be260a9bcf961e00d1fb535882778764243399fce69479"
+hash = "a6418c2a44dc598d9d4347ead84c02ebbbeb931384547df6540e15b8eff46977"
 metafile = true
 
 [[files]]
@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "98954069b0d9f63dcab08e4b20bd3efacfe12285e79adf9ef9e459e34475c402"
+hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
 metafile = true
 
 [[files]]
@@ -1270,6 +1270,11 @@ hash = "7dc7957ddb456977b20ea5835274c94e1cec63c6a4382a4ed91b8cf8b33db665"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "39d253925debb6ddc146e68d251b86eb6ba8501aef42c1dfe4c2dfcb3ec35224"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
 metafile = true
@@ -1446,7 +1451,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "6215e200c3b58f0e644f71eb138e36a3e6d8f528b21ced6fbf2a07ad8990c28a"
+hash = "0ed79727d948a19d14f26443e9cdd3d69c6c826d507642044878ee5a56abc623"
 metafile = true
 
 [[files]]
@@ -1461,7 +1466,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "ee4bf32c1c64c5a6575412e2511a5add447b2797cbce1a094434e324dd1af02a"
+hash = "17e8ed3dbc72e1c5f4d2cc0b320bfbf55638f29afe940b9011381087a3507cc6"
 metafile = true
 
 [[files]]
@@ -1506,7 +1511,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
-hash = "7377d3a9bd00aed6c4d60fbcf32fd4104e3e4d9a130ad63551dfb29bf6457ad2"
+hash = "9e8138249ccfc9064b00ba87d5fa7bc39a27dd2aa6153c03baf6a640d9472ac6"
 metafile = true
 
 [[files]]
@@ -1557,6 +1562,11 @@ metafile = true
 [[files]]
 file = "mods/raw-ores-processing.pw.toml"
 hash = "97db06d4e2c6c8a6b69510990b20b42d837de079f488fd418361bf06fed17f20"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
 metafile = true
 
 [[files]]
@@ -1646,12 +1656,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "415a2acc42fa2a4b648c4f5de33d679c18a7c478ffae6236ab881b1e49566818"
+hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
 metafile = true
 
 [[files]]
@@ -1681,7 +1691,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "066979e06d62806215475e76884fc420264da26434dd37ce4f4e8b1994de2819"
+hash = "62894882a1724df44ffd7a8aec254cfe9f192a7e3e8f94061baf86e0c3eb5f01"
 metafile = true
 
 [[files]]
@@ -1821,5 +1831,5 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
-hash = "85a90b33cf719d267c797f3e5265145f98b1bc90fd1070136ef5500ada15966f"
+hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
 metafile = true
