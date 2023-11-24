@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "35d479b245f75d88c4bf19886b55958f80ce283dae746040a51c9cad79b83b01"
+hash = "f87162557394f665de9f6517eed9771c2b28d491920fb325b1c666d8e535f325"
 metafile = true
 
 [[files]]
@@ -1511,7 +1511,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
-hash = "9e8138249ccfc9064b00ba87d5fa7bc39a27dd2aa6153c03baf6a640d9472ac6"
+hash = "eaccaefdaa7736d3ebe7864e2af469e98ba7bc730ee63cff8b4db6659591c84c"
 metafile = true
 
 [[files]]
@@ -1691,7 +1691,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "62894882a1724df44ffd7a8aec254cfe9f192a7e3e8f94061baf86e0c3eb5f01"
+hash = "42df51580251a92a754ad61d0480ee2bff337dd42b3b14e241bccb8b1fdd8ab4"
 metafile = true
 
 [[files]]
