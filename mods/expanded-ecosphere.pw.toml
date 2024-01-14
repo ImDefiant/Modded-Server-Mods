@@ -1,13 +1,13 @@
 name = "William Wythers' Expanded Ecosphere"
-filename = "expanded_ecosphere-3.2.3-fabric.jar"
+filename = "expanded_ecosphere-3.2.4-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "39e9e363403db728fd176f671252a4bb5ceeae8b"
+hash = "2e0676191c408715962d24569faf7b5ecd481bf7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4849066
+file-id = 5004496
 project-id = 490686

@@ -1,13 +1,13 @@
 name = "Shulker Drops Two"
-filename = "shulkerdropstwo-1.20.1-3.2.jar"
+filename = "shulkerdropstwo-1.20.1-3.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9eaa842d5f603963e02b3627134f4b627658b957"
+hash = "7a6aaa4d0723bad1b1a04666445b9f6f6abb0c2c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4851712
+file-id = 4963910
 project-id = 302548

@@ -1,13 +1,13 @@
 name = "The Bumblezone (Quilt/Fabric)"
-filename = "the_bumblezone-7.1.4+1.20.1-fabric.jar"
+filename = "the_bumblezone-7.2.1+1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "504c4621413c24ae1ea00fa301bb78c384e767fd"
+hash = "7c93b2d30cffb7fc836b374472bcfddb309987ed"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4903144
+file-id = 5026718
 project-id = 363949

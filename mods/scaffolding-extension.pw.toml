@@ -1,13 +1,13 @@
 name = "Scaffolding Extension"
-filename = "scaffolding-extension-1.1.6+MC1.19-1.20.1.jar"
+filename = "scaffolding-extension-1.1.7+MC1.19-1.20.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "166fb0037ede7e4d62d3751ee21f505e67e4e931"
+hash = "b3f970a1536f685e19c1d1cf5a100769527d8f7d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4606178
+file-id = 4993384
 project-id = 564165

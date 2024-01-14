@@ -1,13 +1,13 @@
 name = "Blahaj (Fabric)"
-filename = "blahaj_1.20-0.2.0.jar"
+filename = "blahaj_1.20-0.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/faitfqhg/versions/mNq5VDBs/blahaj_1.20-0.2.0.jar"
+url = "https://cdn.modrinth.com/data/faitfqhg/versions/j55vhaOu/blahaj_1.20-0.5.1.jar"
 hash-format = "sha1"
-hash = "27f7682f229e4d29e7e7032d0f3b472b603e6d00"
+hash = "99a00b23637c9ebd2c70d9a84b21f31c9117fb59"
 
 [update]
 [update.modrinth]
 mod-id = "faitfqhg"
-version = "mNq5VDBs"
+version = "j55vhaOu"
