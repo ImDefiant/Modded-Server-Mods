@@ -1,13 +1,13 @@
 name = "GrowableOres"
-filename = "GrowableOres-1.7.0-1.20.1-Fabric.jar"
+filename = "GrowableOres-1.7.1-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XGvP5TBn/versions/sHSQCwlX/GrowableOres-1.7.0-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/XGvP5TBn/versions/iNkTAz1f/GrowableOres-1.7.1-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "5258e6567b57ae09ae64e9fd43965b08f84c4c2e"
+hash = "7c94e8e53d0058fb4c7d5e9e96d5a3c2eb4adf8d"
 
 [update]
 [update.modrinth]
 mod-id = "XGvP5TBn"
-version = "sHSQCwlX"
+version = "iNkTAz1f"

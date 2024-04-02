@@ -1,13 +1,13 @@
 name = "Casualness Delight"
-filename = "CasualnessDelight-1.20.1-0.3a.jar"
+filename = "CasualnessDelight-1.20.1-Fabric-0.4-final.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7d30a5d8767c39c572340ea61998453ab0ccfc6e"
+hash = "0b24f2f86d749626425e1057f56df94cbe3447e7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4992285
+file-id = 5212605
 project-id = 909519
